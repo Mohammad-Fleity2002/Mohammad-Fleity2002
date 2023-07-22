@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and cyber security.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on any intresting project.
-- 📫 How to reach me mhamadflity91@gmail.com.
+- 📫 How to reach me mohammadfleity2002@gmail.com.
 
 <!---
 Mohammad-Fleity2002/Mohammad-Fleity2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
