@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohammad-Fleity2002.
-- 👀 I’m interested in AI and cyber security.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in anything related to coding.
+- 🌱 I’m currently working on my own projects.
 - 💞️ I’m looking to collaborate on any intresting project.
 - 📫 How to reach me mohammadfleity2002@gmail.com.
 
